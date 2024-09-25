@@ -133,6 +133,14 @@
   <ItemGroup>
     <ClInclude Include="BMPreader.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\a.bmp" />
+    <Image Include="..\b.bmp" />
+    <Image Include="..\c.bmp" />
+    <Image Include="..\d.bmp" />
+    <Image Include="..\e.bmp" />
+    <Image Include="..\f.bmp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
